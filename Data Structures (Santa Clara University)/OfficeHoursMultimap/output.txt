@@ -1,0 +1,810 @@
+Amount of times that Student 1 attended office hours: 2
+Student 1: 
+Trees
+Stacks
+Amount of times that Student 10 attended office hours: 3
+Student 10: 
+Divide-and-Conquer Sort
+Stacks
+B-Trees
+Amount of times that Student 100 attended office hours: 1
+Student 100: 
+MAPs
+Amount of times that Student 11 attended office hours: 10
+Student 11: 
+MAPs
+Stacks
+B-Trees
+In-place Sort
+B-Trees
+B-Trees
+Priority Queues
+Priority Queues
+Trees
+B-Trees
+Amount of times that Student 12 attended office hours: 3
+Student 12: 
+Priority Queues
+Divide-and-Conquer Sort
+Queues
+Amount of times that Student 13 attended office hours: 9
+Student 13: 
+Binary Trees
+MAPs
+Priority Queues
+In-place Sort
+Trees
+Stacks
+In-place Sort
+In-place Sort
+Heaps
+Amount of times that Student 14 attended office hours: 4
+Student 14: 
+Heaps
+Stacks
+Trees
+Binary Trees
+Amount of times that Student 15 attended office hours: 10
+Student 15: 
+Trees
+Trees
+Binary Trees
+MAPs
+Divide-and-Conquer Sort
+Trees
+In-place Sort
+MAPs
+In-place Sort
+B-Trees
+Amount of times that Student 16 attended office hours: 8
+Student 16: 
+Queues
+Priority Queues
+Binary Trees
+Heaps
+Priority Queues
+Queues
+Priority Queues
+B-Trees
+Amount of times that Student 17 attended office hours: 10
+Student 17: 
+In-place Sort
+MAPs
+Heaps
+Heaps
+Divide-and-Conquer Sort
+Trees
+Priority Queues
+Stacks
+Binary Trees
+Binary Trees
+Amount of times that Student 18 attended office hours: 6
+Student 18: 
+B-Trees
+MAPs
+Stacks
+B-Trees
+MAPs
+MAPs
+Amount of times that Student 19 attended office hours: 6
+Student 19: 
+B-Trees
+Queues
+Priority Queues
+MAPs
+Queues
+In-place Sort
+Amount of times that Student 2 attended office hours: 6
+Student 2: 
+MAPs
+B-Trees
+MAPs
+Trees
+Queues
+Divide-and-Conquer Sort
+Amount of times that Student 20 attended office hours: 7
+Student 20: 
+Binary Trees
+Binary Trees
+Binary Trees
+Trees
+Binary Trees
+In-place Sort
+Trees
+Amount of times that Student 21 attended office hours: 8
+Student 21: 
+Priority Queues
+Stacks
+Queues
+Binary Trees
+Stacks
+Priority Queues
+Binary Trees
+Heaps
+Amount of times that Student 22 attended office hours: 5
+Student 22: 
+Stacks
+In-place Sort
+Divide-and-Conquer Sort
+Trees
+Stacks
+Amount of times that Student 23 attended office hours: 5
+Student 23: 
+Queues
+Heaps
+Binary Trees
+Heaps
+Queues
+Amount of times that Student 24 attended office hours: 4
+Student 24: 
+In-place Sort
+Divide-and-Conquer Sort
+B-Trees
+B-Trees
+Amount of times that Student 25 attended office hours: 8
+Student 25: 
+In-place Sort
+Heaps
+Priority Queues
+In-place Sort
+Priority Queues
+Trees
+Priority Queues
+Queues
+Amount of times that Student 26 attended office hours: 7
+Student 26: 
+B-Trees
+B-Trees
+Binary Trees
+In-place Sort
+Heaps
+Queues
+Priority Queues
+Amount of times that Student 27 attended office hours: 5
+Student 27: 
+In-place Sort
+Stacks
+Heaps
+Queues
+Heaps
+Amount of times that Student 28 attended office hours: 6
+Student 28: 
+Queues
+Divide-and-Conquer Sort
+Binary Trees
+Trees
+Queues
+Binary Trees
+Amount of times that Student 29 attended office hours: 7
+Student 29: 
+Trees
+Divide-and-Conquer Sort
+Heaps
+Divide-and-Conquer Sort
+Trees
+Binary Trees
+MAPs
+Amount of times that Student 3 attended office hours: 5
+Student 3: 
+Priority Queues
+Heaps
+Heaps
+Queues
+Binary Trees
+Amount of times that Student 30 attended office hours: 7
+Student 30: 
+Heaps
+Divide-and-Conquer Sort
+B-Trees
+Trees
+MAPs
+Trees
+Priority Queues
+Amount of times that Student 31 attended office hours: 8
+Student 31: 
+Heaps
+Binary Trees
+Heaps
+Divide-and-Conquer Sort
+Priority Queues
+MAPs
+Priority Queues
+Heaps
+Amount of times that Student 32 attended office hours: 5
+Student 32: 
+Stacks
+Trees
+Queues
+Trees
+Binary Trees
+Amount of times that Student 33 attended office hours: 11
+Student 33: 
+Heaps
+B-Trees
+Binary Trees
+Divide-and-Conquer Sort
+In-place Sort
+Trees
+Queues
+Binary Trees
+B-Trees
+Binary Trees
+B-Trees
+Amount of times that Student 34 attended office hours: 8
+Student 34: 
+B-Trees
+MAPs
+Priority Queues
+Binary Trees
+Binary Trees
+Stacks
+Priority Queues
+Trees
+Amount of times that Student 35 attended office hours: 3
+Student 35: 
+Heaps
+Trees
+Divide-and-Conquer Sort
+Amount of times that Student 36 attended office hours: 4
+Student 36: 
+Divide-and-Conquer Sort
+Divide-and-Conquer Sort
+Heaps
+Heaps
+Amount of times that Student 37 attended office hours: 6
+Student 37: 
+Trees
+In-place Sort
+MAPs
+Heaps
+Queues
+B-Trees
+Amount of times that Student 38 attended office hours: 6
+Student 38: 
+In-place Sort
+Stacks
+Binary Trees
+In-place Sort
+MAPs
+Trees
+Amount of times that Student 39 attended office hours: 8
+Student 39: 
+Stacks
+Heaps
+In-place Sort
+B-Trees
+B-Trees
+MAPs
+MAPs
+Priority Queues
+Amount of times that Student 4 attended office hours: 7
+Student 4: 
+Queues
+Heaps
+Heaps
+Heaps
+Trees
+Stacks
+Binary Trees
+Amount of times that Student 40 attended office hours: 9
+Student 40: 
+Divide-and-Conquer Sort
+Queues
+Priority Queues
+Divide-and-Conquer Sort
+In-place Sort
+Queues
+MAPs
+B-Trees
+Divide-and-Conquer Sort
+Amount of times that Student 41 attended office hours: 8
+Student 41: 
+Stacks
+Stacks
+Priority Queues
+Trees
+Trees
+Priority Queues
+Binary Trees
+Divide-and-Conquer Sort
+Amount of times that Student 42 attended office hours: 4
+Student 42: 
+B-Trees
+In-place Sort
+Priority Queues
+Trees
+Amount of times that Student 43 attended office hours: 11
+Student 43: 
+Divide-and-Conquer Sort
+Heaps
+Trees
+Trees
+Stacks
+Priority Queues
+In-place Sort
+Queues
+Trees
+In-place Sort
+Trees
+Amount of times that Student 44 attended office hours: 6
+Student 44: 
+Binary Trees
+Queues
+Divide-and-Conquer Sort
+Stacks
+Stacks
+Priority Queues
+Amount of times that Student 45 attended office hours: 10
+Student 45: 
+Heaps
+Heaps
+Priority Queues
+Heaps
+Queues
+Queues
+In-place Sort
+Queues
+Divide-and-Conquer Sort
+Divide-and-Conquer Sort
+Amount of times that Student 46 attended office hours: 7
+Student 46: 
+Stacks
+In-place Sort
+MAPs
+Binary Trees
+In-place Sort
+Binary Trees
+B-Trees
+Amount of times that Student 47 attended office hours: 8
+Student 47: 
+B-Trees
+In-place Sort
+Binary Trees
+Stacks
+Heaps
+Queues
+MAPs
+Binary Trees
+Amount of times that Student 48 attended office hours: 6
+Student 48: 
+Priority Queues
+Divide-and-Conquer Sort
+B-Trees
+Heaps
+Heaps
+Trees
+Amount of times that Student 49 attended office hours: 8
+Student 49: 
+Binary Trees
+Trees
+B-Trees
+MAPs
+Stacks
+MAPs
+Stacks
+B-Trees
+Amount of times that Student 5 attended office hours: 5
+Student 5: 
+MAPs
+In-place Sort
+MAPs
+Binary Trees
+Heaps
+Amount of times that Student 50 attended office hours: 6
+Student 50: 
+Queues
+In-place Sort
+Stacks
+MAPs
+B-Trees
+Trees
+Amount of times that Student 51 attended office hours: 2
+Student 51: 
+B-Trees
+Trees
+Amount of times that Student 52 attended office hours: 5
+Student 52: 
+Heaps
+Stacks
+In-place Sort
+Stacks
+B-Trees
+Amount of times that Student 53 attended office hours: 4
+Student 53: 
+Divide-and-Conquer Sort
+Stacks
+Binary Trees
+Binary Trees
+Amount of times that Student 54 attended office hours: 7
+Student 54: 
+Divide-and-Conquer Sort
+Trees
+Stacks
+Divide-and-Conquer Sort
+Binary Trees
+Queues
+In-place Sort
+Amount of times that Student 55 attended office hours: 3
+Student 55: 
+Binary Trees
+Stacks
+Queues
+Amount of times that Student 56 attended office hours: 4
+Student 56: 
+Binary Trees
+Stacks
+Trees
+Divide-and-Conquer Sort
+Amount of times that Student 57 attended office hours: 3
+Student 57: 
+Stacks
+MAPs
+Binary Trees
+Amount of times that Student 58 attended office hours: 6
+Student 58: 
+Divide-and-Conquer Sort
+Divide-and-Conquer Sort
+MAPs
+Stacks
+Queues
+Binary Trees
+Amount of times that Student 59 attended office hours: 8
+Student 59: 
+Divide-and-Conquer Sort
+Queues
+Trees
+B-Trees
+Heaps
+MAPs
+B-Trees
+MAPs
+Amount of times that Student 6 attended office hours: 6
+Student 6: 
+B-Trees
+Priority Queues
+Trees
+In-place Sort
+Priority Queues
+Priority Queues
+Amount of times that Student 60 attended office hours: 10
+Student 60: 
+Trees
+B-Trees
+Heaps
+Queues
+B-Trees
+Binary Trees
+MAPs
+Binary Trees
+Trees
+Binary Trees
+Amount of times that Student 61 attended office hours: 7
+Student 61: 
+MAPs
+In-place Sort
+MAPs
+Binary Trees
+B-Trees
+Binary Trees
+B-Trees
+Amount of times that Student 62 attended office hours: 6
+Student 62: 
+Priority Queues
+Stacks
+MAPs
+Divide-and-Conquer Sort
+In-place Sort
+B-Trees
+Amount of times that Student 63 attended office hours: 8
+Student 63: 
+In-place Sort
+MAPs
+Trees
+Binary Trees
+Divide-and-Conquer Sort
+Divide-and-Conquer Sort
+In-place Sort
+Stacks
+Amount of times that Student 64 attended office hours: 8
+Student 64: 
+Priority Queues
+Trees
+MAPs
+Divide-and-Conquer Sort
+Divide-and-Conquer Sort
+MAPs
+MAPs
+In-place Sort
+Amount of times that Student 65 attended office hours: 6
+Student 65: 
+Priority Queues
+MAPs
+MAPs
+Binary Trees
+Heaps
+MAPs
+Amount of times that Student 66 attended office hours: 10
+Student 66: 
+Trees
+Binary Trees
+B-Trees
+Divide-and-Conquer Sort
+Queues
+MAPs
+B-Trees
+Priority Queues
+B-Trees
+Queues
+Amount of times that Student 67 attended office hours: 4
+Student 67: 
+Binary Trees
+Trees
+Priority Queues
+Heaps
+Amount of times that Student 68 attended office hours: 8
+Student 68: 
+Priority Queues
+Trees
+MAPs
+Heaps
+Priority Queues
+Priority Queues
+Divide-and-Conquer Sort
+Trees
+Amount of times that Student 69 attended office hours: 5
+Student 69: 
+Queues
+Trees
+Queues
+Stacks
+In-place Sort
+Amount of times that Student 7 attended office hours: 4
+Student 7: 
+MAPs
+Binary Trees
+B-Trees
+Priority Queues
+Amount of times that Student 70 attended office hours: 4
+Student 70: 
+Stacks
+Queues
+Queues
+Queues
+Amount of times that Student 71 attended office hours: 3
+Student 71: 
+Heaps
+Stacks
+Divide-and-Conquer Sort
+Amount of times that Student 72 attended office hours: 3
+Student 72: 
+B-Trees
+In-place Sort
+Priority Queues
+Amount of times that Student 73 attended office hours: 8
+Student 73: 
+Stacks
+Trees
+Heaps
+Priority Queues
+Stacks
+Stacks
+Trees
+In-place Sort
+Amount of times that Student 74 attended office hours: 5
+Student 74: 
+In-place Sort
+Stacks
+Binary Trees
+Binary Trees
+Trees
+Amount of times that Student 75 attended office hours: 7
+Student 75: 
+Queues
+Trees
+Priority Queues
+Heaps
+Priority Queues
+Trees
+MAPs
+Amount of times that Student 76 attended office hours: 7
+Student 76: 
+B-Trees
+Divide-and-Conquer Sort
+Trees
+Priority Queues
+Divide-and-Conquer Sort
+Stacks
+Binary Trees
+Amount of times that Student 77 attended office hours: 4
+Student 77: 
+Binary Trees
+Binary Trees
+Queues
+Divide-and-Conquer Sort
+Amount of times that Student 78 attended office hours: 3
+Student 78: 
+Priority Queues
+MAPs
+Queues
+Amount of times that Student 79 attended office hours: 3
+Student 79: 
+Divide-and-Conquer Sort
+Queues
+B-Trees
+Amount of times that Student 8 attended office hours: 6
+Student 8: 
+Trees
+In-place Sort
+In-place Sort
+Queues
+Trees
+Stacks
+Amount of times that Student 80 attended office hours: 6
+Student 80: 
+In-place Sort
+In-place Sort
+In-place Sort
+Trees
+MAPs
+Stacks
+Amount of times that Student 81 attended office hours: 9
+Student 81: 
+In-place Sort
+Queues
+Trees
+Heaps
+MAPs
+Priority Queues
+Heaps
+B-Trees
+B-Trees
+Amount of times that Student 82 attended office hours: 10
+Student 82: 
+In-place Sort
+Queues
+Trees
+Priority Queues
+Divide-and-Conquer Sort
+Binary Trees
+Binary Trees
+In-place Sort
+Heaps
+Divide-and-Conquer Sort
+Amount of times that Student 83 attended office hours: 8
+Student 83: 
+Trees
+Trees
+Priority Queues
+Binary Trees
+B-Trees
+Stacks
+Queues
+B-Trees
+Amount of times that Student 84 attended office hours: 9
+Student 84: 
+Queues
+Queues
+B-Trees
+Heaps
+Heaps
+Stacks
+Divide-and-Conquer Sort
+Trees
+Queues
+Amount of times that Student 85 attended office hours: 3
+Student 85: 
+Divide-and-Conquer Sort
+Stacks
+Stacks
+Amount of times that Student 86 attended office hours: 4
+Student 86: 
+Divide-and-Conquer Sort
+Trees
+B-Trees
+Stacks
+Amount of times that Student 87 attended office hours: 7
+Student 87: 
+Trees
+B-Trees
+MAPs
+B-Trees
+MAPs
+Binary Trees
+B-Trees
+Amount of times that Student 88 attended office hours: 6
+Student 88: 
+Stacks
+Binary Trees
+MAPs
+Priority Queues
+MAPs
+B-Trees
+Amount of times that Student 89 attended office hours: 4
+Student 89: 
+Binary Trees
+Divide-and-Conquer Sort
+In-place Sort
+Heaps
+Amount of times that Student 9 attended office hours: 5
+Student 9: 
+Divide-and-Conquer Sort
+B-Trees
+Trees
+Stacks
+MAPs
+Amount of times that Student 90 attended office hours: 6
+Student 90: 
+Divide-and-Conquer Sort
+In-place Sort
+MAPs
+B-Trees
+In-place Sort
+Heaps
+Amount of times that Student 91 attended office hours: 6
+Student 91: 
+B-Trees
+Trees
+MAPs
+B-Trees
+Divide-and-Conquer Sort
+In-place Sort
+Amount of times that Student 92 attended office hours: 8
+Student 92: 
+In-place Sort
+Binary Trees
+Stacks
+Heaps
+Binary Trees
+In-place Sort
+Trees
+Stacks
+Amount of times that Student 93 attended office hours: 5
+Student 93: 
+Queues
+Binary Trees
+B-Trees
+Trees
+MAPs
+Amount of times that Student 94 attended office hours: 3
+Student 94: 
+Queues
+Trees
+In-place Sort
+Amount of times that Student 95 attended office hours: 6
+Student 95: 
+MAPs
+Stacks
+Binary Trees
+B-Trees
+Binary Trees
+Queues
+Amount of times that Student 96 attended office hours: 3
+Student 96: 
+B-Trees
+MAPs
+Heaps
+Amount of times that Student 97 attended office hours: 2
+Student 97: 
+Priority Queues
+Priority Queues
+Amount of times that Student 98 attended office hours: 9
+Student 98: 
+Binary Trees
+Binary Trees
+Heaps
+Divide-and-Conquer Sort
+Queues
+Priority Queues
+Priority Queues
+Heaps
+Priority Queues
+Amount of times that Student 99 attended office hours: 8
+Student 99: 
+Divide-and-Conquer Sort
+Priority Queues
+Binary Trees
+Trees
+MAPs
+Stacks
+Queues
+B-Trees

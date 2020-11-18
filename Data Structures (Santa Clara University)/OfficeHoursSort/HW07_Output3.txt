@@ -1,0 +1,672 @@
+StudentA   B-Trees
+StudentB   B-Trees
+StudentB   B-Trees
+StudentB   B-Trees
+StudentB   B-Trees
+StudentC   B-Trees
+StudentC   B-Trees
+StudentC   B-Trees
+StudentD   B-Trees
+StudentE   B-Trees
+StudentE   B-Trees
+StudentE   B-Trees
+StudentF   B-Trees
+StudentF   B-Trees
+StudentG   B-Trees
+StudentG   B-Trees
+StudentG   B-Trees
+StudentG   B-Trees
+StudentH   B-Trees
+StudentH   B-Trees
+StudentH   B-Trees
+StudentH   B-Trees
+StudentH   B-Trees
+StudentH   B-Trees
+StudentI   B-Trees
+StudentI   B-Trees
+StudentI   B-Trees
+StudentK   B-Trees
+StudentK   B-Trees
+StudentL   B-Trees
+StudentL   B-Trees
+StudentL   B-Trees
+StudentM   B-Trees
+StudentM   B-Trees
+StudentM   B-Trees
+StudentM   B-Trees
+StudentO   B-Trees
+StudentO   B-Trees
+StudentO   B-Trees
+StudentO   B-Trees
+StudentP   B-Trees
+StudentP   B-Trees
+StudentP   B-Trees
+StudentP   B-Trees
+StudentQ   B-Trees
+StudentQ   B-Trees
+StudentR   B-Trees
+StudentR   B-Trees
+StudentS   B-Trees
+StudentS   B-Trees
+StudentS   B-Trees
+StudentS   B-Trees
+StudentT   B-Trees
+StudentT   B-Trees
+StudentT   B-Trees
+StudentT   B-Trees
+StudentU   B-Trees
+StudentU   B-Trees
+StudentV   B-Trees
+StudentV   B-Trees
+StudentV   B-Trees
+StudentV   B-Trees
+StudentW   B-Trees
+StudentW   B-Trees
+StudentW   B-Trees
+StudentW   B-Trees
+StudentX   B-Trees
+StudentX   B-Trees
+StudentX   B-Trees
+StudentX   B-Trees
+StudentY   B-Trees
+StudentY   B-Trees
+StudentY   B-Trees
+StudentY   B-Trees
+StudentZ   B-Trees
+StudentZ   B-Trees
+StudentA   Binary Trees
+StudentB   Binary Trees
+StudentB   Binary Trees
+StudentB   Binary Trees
+StudentD   Binary Trees
+StudentD   Binary Trees
+StudentD   Binary Trees
+StudentD   Binary Trees
+StudentE   Binary Trees
+StudentE   Binary Trees
+StudentF   Binary Trees
+StudentG   Binary Trees
+StudentG   Binary Trees
+StudentG   Binary Trees
+StudentH   Binary Trees
+StudentI   Binary Trees
+StudentI   Binary Trees
+StudentI   Binary Trees
+StudentJ   Binary Trees
+StudentK   Binary Trees
+StudentK   Binary Trees
+StudentL   Binary Trees
+StudentM   Binary Trees
+StudentM   Binary Trees
+StudentM   Binary Trees
+StudentM   Binary Trees
+StudentN   Binary Trees
+StudentN   Binary Trees
+StudentN   Binary Trees
+StudentO   Binary Trees
+StudentO   Binary Trees
+StudentO   Binary Trees
+StudentQ   Binary Trees
+StudentR   Binary Trees
+StudentR   Binary Trees
+StudentR   Binary Trees
+StudentR   Binary Trees
+StudentR   Binary Trees
+StudentR   Binary Trees
+StudentS   Binary Trees
+StudentT   Binary Trees
+StudentT   Binary Trees
+StudentU   Binary Trees
+StudentV   Binary Trees
+StudentW   Binary Trees
+StudentW   Binary Trees
+StudentW   Binary Trees
+StudentW   Binary Trees
+StudentW   Binary Trees
+StudentW   Binary Trees
+StudentY   Binary Trees
+StudentY   Binary Trees
+StudentZ   Binary Trees
+StudentA   Divide-and-Conquer Sort
+StudentA   Divide-and-Conquer Sort
+StudentA   Divide-and-Conquer Sort
+StudentB   Divide-and-Conquer Sort
+StudentB   Divide-and-Conquer Sort
+StudentC   Divide-and-Conquer Sort
+StudentC   Divide-and-Conquer Sort
+StudentC   Divide-and-Conquer Sort
+StudentD   Divide-and-Conquer Sort
+StudentD   Divide-and-Conquer Sort
+StudentD   Divide-and-Conquer Sort
+StudentD   Divide-and-Conquer Sort
+StudentD   Divide-and-Conquer Sort
+StudentE   Divide-and-Conquer Sort
+StudentE   Divide-and-Conquer Sort
+StudentE   Divide-and-Conquer Sort
+StudentF   Divide-and-Conquer Sort
+StudentG   Divide-and-Conquer Sort
+StudentG   Divide-and-Conquer Sort
+StudentG   Divide-and-Conquer Sort
+StudentG   Divide-and-Conquer Sort
+StudentH   Divide-and-Conquer Sort
+StudentH   Divide-and-Conquer Sort
+StudentH   Divide-and-Conquer Sort
+StudentI   Divide-and-Conquer Sort
+StudentI   Divide-and-Conquer Sort
+StudentI   Divide-and-Conquer Sort
+StudentJ   Divide-and-Conquer Sort
+StudentJ   Divide-and-Conquer Sort
+StudentJ   Divide-and-Conquer Sort
+StudentK   Divide-and-Conquer Sort
+StudentK   Divide-and-Conquer Sort
+StudentK   Divide-and-Conquer Sort
+StudentK   Divide-and-Conquer Sort
+StudentK   Divide-and-Conquer Sort
+StudentL   Divide-and-Conquer Sort
+StudentL   Divide-and-Conquer Sort
+StudentM   Divide-and-Conquer Sort
+StudentM   Divide-and-Conquer Sort
+StudentM   Divide-and-Conquer Sort
+StudentM   Divide-and-Conquer Sort
+StudentN   Divide-and-Conquer Sort
+StudentN   Divide-and-Conquer Sort
+StudentN   Divide-and-Conquer Sort
+StudentO   Divide-and-Conquer Sort
+StudentO   Divide-and-Conquer Sort
+StudentO   Divide-and-Conquer Sort
+StudentP   Divide-and-Conquer Sort
+StudentP   Divide-and-Conquer Sort
+StudentQ   Divide-and-Conquer Sort
+StudentR   Divide-and-Conquer Sort
+StudentR   Divide-and-Conquer Sort
+StudentR   Divide-and-Conquer Sort
+StudentR   Divide-and-Conquer Sort
+StudentR   Divide-and-Conquer Sort
+StudentR   Divide-and-Conquer Sort
+StudentS   Divide-and-Conquer Sort
+StudentS   Divide-and-Conquer Sort
+StudentS   Divide-and-Conquer Sort
+StudentT   Divide-and-Conquer Sort
+StudentT   Divide-and-Conquer Sort
+StudentT   Divide-and-Conquer Sort
+StudentT   Divide-and-Conquer Sort
+StudentU   Divide-and-Conquer Sort
+StudentU   Divide-and-Conquer Sort
+StudentU   Divide-and-Conquer Sort
+StudentU   Divide-and-Conquer Sort
+StudentV   Divide-and-Conquer Sort
+StudentV   Divide-and-Conquer Sort
+StudentW   Divide-and-Conquer Sort
+StudentW   Divide-and-Conquer Sort
+StudentW   Divide-and-Conquer Sort
+StudentX   Divide-and-Conquer Sort
+StudentX   Divide-and-Conquer Sort
+StudentX   Divide-and-Conquer Sort
+StudentY   Divide-and-Conquer Sort
+StudentZ   Divide-and-Conquer Sort
+StudentZ   Divide-and-Conquer Sort
+StudentZ   Divide-and-Conquer Sort
+StudentA   Heaps
+StudentA   Heaps
+StudentA   Heaps
+StudentA   Heaps
+StudentA   Heaps
+StudentA   Heaps
+StudentA   Heaps
+StudentB   Heaps
+StudentB   Heaps
+StudentC   Heaps
+StudentC   Heaps
+StudentC   Heaps
+StudentC   Heaps
+StudentC   Heaps
+StudentD   Heaps
+StudentD   Heaps
+StudentE   Heaps
+StudentE   Heaps
+StudentE   Heaps
+StudentG   Heaps
+StudentH   Heaps
+StudentH   Heaps
+StudentI   Heaps
+StudentI   Heaps
+StudentJ   Heaps
+StudentK   Heaps
+StudentK   Heaps
+StudentL   Heaps
+StudentL   Heaps
+StudentN   Heaps
+StudentO   Heaps
+StudentO   Heaps
+StudentP   Heaps
+StudentP   Heaps
+StudentQ   Heaps
+StudentR   Heaps
+StudentS   Heaps
+StudentS   Heaps
+StudentT   Heaps
+StudentT   Heaps
+StudentT   Heaps
+StudentT   Heaps
+StudentU   Heaps
+StudentV   Heaps
+StudentW   Heaps
+StudentW   Heaps
+StudentW   Heaps
+StudentW   Heaps
+StudentX   Heaps
+StudentY   Heaps
+StudentY   Heaps
+StudentZ   Heaps
+StudentZ   Heaps
+StudentA   In-place Sort
+StudentA   In-place Sort
+StudentA   In-place Sort
+StudentB   In-place Sort
+StudentB   In-place Sort
+StudentB   In-place Sort
+StudentB   In-place Sort
+StudentB   In-place Sort
+StudentC   In-place Sort
+StudentC   In-place Sort
+StudentD   In-place Sort
+StudentE   In-place Sort
+StudentE   In-place Sort
+StudentE   In-place Sort
+StudentE   In-place Sort
+StudentF   In-place Sort
+StudentH   In-place Sort
+StudentH   In-place Sort
+StudentH   In-place Sort
+StudentH   In-place Sort
+StudentH   In-place Sort
+StudentI   In-place Sort
+StudentI   In-place Sort
+StudentI   In-place Sort
+StudentI   In-place Sort
+StudentI   In-place Sort
+StudentJ   In-place Sort
+StudentJ   In-place Sort
+StudentJ   In-place Sort
+StudentJ   In-place Sort
+StudentK   In-place Sort
+StudentK   In-place Sort
+StudentL   In-place Sort
+StudentL   In-place Sort
+StudentL   In-place Sort
+StudentL   In-place Sort
+StudentM   In-place Sort
+StudentM   In-place Sort
+StudentM   In-place Sort
+StudentM   In-place Sort
+StudentN   In-place Sort
+StudentN   In-place Sort
+StudentN   In-place Sort
+StudentN   In-place Sort
+StudentN   In-place Sort
+StudentO   In-place Sort
+StudentP   In-place Sort
+StudentP   In-place Sort
+StudentQ   In-place Sort
+StudentR   In-place Sort
+StudentS   In-place Sort
+StudentS   In-place Sort
+StudentS   In-place Sort
+StudentT   In-place Sort
+StudentT   In-place Sort
+StudentT   In-place Sort
+StudentT   In-place Sort
+StudentT   In-place Sort
+StudentT   In-place Sort
+StudentU   In-place Sort
+StudentU   In-place Sort
+StudentU   In-place Sort
+StudentV   In-place Sort
+StudentW   In-place Sort
+StudentW   In-place Sort
+StudentY   In-place Sort
+StudentY   In-place Sort
+StudentY   In-place Sort
+StudentA   MAPs
+StudentA   MAPs
+StudentA   MAPs
+StudentA   MAPs
+StudentB   MAPs
+StudentB   MAPs
+StudentB   MAPs
+StudentB   MAPs
+StudentB   MAPs
+StudentC   MAPs
+StudentC   MAPs
+StudentC   MAPs
+StudentC   MAPs
+StudentC   MAPs
+StudentD   MAPs
+StudentD   MAPs
+StudentE   MAPs
+StudentE   MAPs
+StudentE   MAPs
+StudentE   MAPs
+StudentF   MAPs
+StudentF   MAPs
+StudentF   MAPs
+StudentF   MAPs
+StudentG   MAPs
+StudentJ   MAPs
+StudentJ   MAPs
+StudentK   MAPs
+StudentK   MAPs
+StudentL   MAPs
+StudentL   MAPs
+StudentL   MAPs
+StudentM   MAPs
+StudentM   MAPs
+StudentM   MAPs
+StudentN   MAPs
+StudentN   MAPs
+StudentN   MAPs
+StudentO   MAPs
+StudentP   MAPs
+StudentP   MAPs
+StudentP   MAPs
+StudentQ   MAPs
+StudentR   MAPs
+StudentR   MAPs
+StudentR   MAPs
+StudentR   MAPs
+StudentR   MAPs
+StudentS   MAPs
+StudentS   MAPs
+StudentS   MAPs
+StudentS   MAPs
+StudentT   MAPs
+StudentT   MAPs
+StudentT   MAPs
+StudentT   MAPs
+StudentT   MAPs
+StudentT   MAPs
+StudentU   MAPs
+StudentU   MAPs
+StudentU   MAPs
+StudentV   MAPs
+StudentV   MAPs
+StudentW   MAPs
+StudentW   MAPs
+StudentW   MAPs
+StudentX   MAPs
+StudentX   MAPs
+StudentX   MAPs
+StudentX   MAPs
+StudentX   MAPs
+StudentY   MAPs
+StudentY   MAPs
+StudentY   MAPs
+StudentY   MAPs
+StudentZ   MAPs
+StudentZ   MAPs
+StudentA   Priority Queues
+StudentA   Priority Queues
+StudentA   Priority Queues
+StudentA   Priority Queues
+StudentA   Priority Queues
+StudentB   Priority Queues
+StudentB   Priority Queues
+StudentC   Priority Queues
+StudentC   Priority Queues
+StudentE   Priority Queues
+StudentE   Priority Queues
+StudentE   Priority Queues
+StudentE   Priority Queues
+StudentF   Priority Queues
+StudentF   Priority Queues
+StudentF   Priority Queues
+StudentF   Priority Queues
+StudentF   Priority Queues
+StudentG   Priority Queues
+StudentG   Priority Queues
+StudentG   Priority Queues
+StudentG   Priority Queues
+StudentG   Priority Queues
+StudentH   Priority Queues
+StudentI   Priority Queues
+StudentI   Priority Queues
+StudentJ   Priority Queues
+StudentK   Priority Queues
+StudentK   Priority Queues
+StudentL   Priority Queues
+StudentL   Priority Queues
+StudentM   Priority Queues
+StudentM   Priority Queues
+StudentN   Priority Queues
+StudentN   Priority Queues
+StudentO   Priority Queues
+StudentO   Priority Queues
+StudentO   Priority Queues
+StudentO   Priority Queues
+StudentO   Priority Queues
+StudentO   Priority Queues
+StudentP   Priority Queues
+StudentP   Priority Queues
+StudentP   Priority Queues
+StudentR   Priority Queues
+StudentR   Priority Queues
+StudentR   Priority Queues
+StudentS   Priority Queues
+StudentS   Priority Queues
+StudentS   Priority Queues
+StudentT   Priority Queues
+StudentT   Priority Queues
+StudentT   Priority Queues
+StudentT   Priority Queues
+StudentU   Priority Queues
+StudentU   Priority Queues
+StudentU   Priority Queues
+StudentU   Priority Queues
+StudentV   Priority Queues
+StudentV   Priority Queues
+StudentW   Priority Queues
+StudentW   Priority Queues
+StudentW   Priority Queues
+StudentX   Priority Queues
+StudentY   Priority Queues
+StudentY   Priority Queues
+StudentY   Priority Queues
+StudentY   Priority Queues
+StudentY   Priority Queues
+StudentY   Priority Queues
+StudentZ   Priority Queues
+StudentZ   Priority Queues
+StudentZ   Priority Queues
+StudentZ   Priority Queues
+StudentA   Queues
+StudentA   Queues
+StudentB   Queues
+StudentB   Queues
+StudentB   Queues
+StudentC   Queues
+StudentC   Queues
+StudentC   Queues
+StudentD   Queues
+StudentE   Queues
+StudentE   Queues
+StudentF   Queues
+StudentG   Queues
+StudentG   Queues
+StudentG   Queues
+StudentI   Queues
+StudentJ   Queues
+StudentJ   Queues
+StudentK   Queues
+StudentK   Queues
+StudentL   Queues
+StudentL   Queues
+StudentM   Queues
+StudentN   Queues
+StudentO   Queues
+StudentO   Queues
+StudentQ   Queues
+StudentQ   Queues
+StudentQ   Queues
+StudentR   Queues
+StudentR   Queues
+StudentR   Queues
+StudentR   Queues
+StudentR   Queues
+StudentS   Queues
+StudentT   Queues
+StudentT   Queues
+StudentT   Queues
+StudentT   Queues
+StudentT   Queues
+StudentU   Queues
+StudentV   Queues
+StudentV   Queues
+StudentW   Queues
+StudentW   Queues
+StudentW   Queues
+StudentX   Queues
+StudentY   Queues
+StudentY   Queues
+StudentY   Queues
+StudentZ   Queues
+StudentZ   Queues
+StudentZ   Queues
+StudentZ   Queues
+StudentB   Stacks
+StudentC   Stacks
+StudentC   Stacks
+StudentC   Stacks
+StudentC   Stacks
+StudentD   Stacks
+StudentE   Stacks
+StudentE   Stacks
+StudentE   Stacks
+StudentE   Stacks
+StudentF   Stacks
+StudentF   Stacks
+StudentF   Stacks
+StudentF   Stacks
+StudentG   Stacks
+StudentH   Stacks
+StudentH   Stacks
+StudentI   Stacks
+StudentJ   Stacks
+StudentJ   Stacks
+StudentK   Stacks
+StudentK   Stacks
+StudentK   Stacks
+StudentK   Stacks
+StudentL   Stacks
+StudentL   Stacks
+StudentL   Stacks
+StudentL   Stacks
+StudentM   Stacks
+StudentM   Stacks
+StudentM   Stacks
+StudentM   Stacks
+StudentM   Stacks
+StudentO   Stacks
+StudentO   Stacks
+StudentO   Stacks
+StudentP   Stacks
+StudentP   Stacks
+StudentQ   Stacks
+StudentQ   Stacks
+StudentQ   Stacks
+StudentR   Stacks
+StudentR   Stacks
+StudentR   Stacks
+StudentR   Stacks
+StudentR   Stacks
+StudentR   Stacks
+StudentS   Stacks
+StudentT   Stacks
+StudentU   Stacks
+StudentU   Stacks
+StudentU   Stacks
+StudentU   Stacks
+StudentV   Stacks
+StudentV   Stacks
+StudentW   Stacks
+StudentW   Stacks
+StudentX   Stacks
+StudentX   Stacks
+StudentX   Stacks
+StudentX   Stacks
+StudentY   Stacks
+StudentY   Stacks
+StudentY   Stacks
+StudentY   Stacks
+StudentZ   Stacks
+StudentZ   Stacks
+StudentA   Trees
+StudentA   Trees
+StudentB   Trees
+StudentB   Trees
+StudentD   Trees
+StudentD   Trees
+StudentD   Trees
+StudentD   Trees
+StudentD   Trees
+StudentE   Trees
+StudentE   Trees
+StudentE   Trees
+StudentE   Trees
+StudentF   Trees
+StudentF   Trees
+StudentF   Trees
+StudentF   Trees
+StudentF   Trees
+StudentG   Trees
+StudentH   Trees
+StudentH   Trees
+StudentH   Trees
+StudentI   Trees
+StudentI   Trees
+StudentI   Trees
+StudentI   Trees
+StudentJ   Trees
+StudentJ   Trees
+StudentJ   Trees
+StudentK   Trees
+StudentK   Trees
+StudentK   Trees
+StudentK   Trees
+StudentK   Trees
+StudentL   Trees
+StudentL   Trees
+StudentL   Trees
+StudentL   Trees
+StudentL   Trees
+StudentM   Trees
+StudentM   Trees
+StudentM   Trees
+StudentM   Trees
+StudentN   Trees
+StudentN   Trees
+StudentO   Trees
+StudentO   Trees
+StudentP   Trees
+StudentQ   Trees
+StudentR   Trees
+StudentR   Trees
+StudentR   Trees
+StudentS   Trees
+StudentS   Trees
+StudentS   Trees
+StudentS   Trees
+StudentS   Trees
+StudentU   Trees
+StudentU   Trees
+StudentV   Trees
+StudentV   Trees
+StudentW   Trees
+StudentW   Trees
+StudentX   Trees
+StudentX   Trees
+StudentY   Trees
+StudentY   Trees
+StudentY   Trees
+StudentZ   Trees
+StudentZ   Trees
+StudentZ   Trees

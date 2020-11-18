@@ -1,0 +1,672 @@
+StudentZ   Trees
+StudentZ   Priority Queues
+StudentZ   MAPs
+StudentZ   Trees
+StudentZ   Heaps
+StudentZ   Priority Queues
+StudentZ   Queues
+StudentZ   Queues
+StudentZ   B-Trees
+StudentZ   Stacks
+StudentZ   Queues
+StudentZ   B-Trees
+StudentZ   Stacks
+StudentZ   Queues
+StudentZ   Binary Trees
+StudentZ   MAPs
+StudentZ   Divide-and-Conquer Sort
+StudentZ   Priority Queues
+StudentZ   Priority Queues
+StudentZ   Trees
+StudentZ   Divide-and-Conquer Sort
+StudentZ   Heaps
+StudentZ   Divide-and-Conquer Sort
+StudentY   B-Trees
+StudentY   Stacks
+StudentY   In-place Sort
+StudentY   Trees
+StudentY   Queues
+StudentY   In-place Sort
+StudentY   Stacks
+StudentY   Priority Queues
+StudentY   Heaps
+StudentY   Binary Trees
+StudentY   Priority Queues
+StudentY   Divide-and-Conquer Sort
+StudentY   Priority Queues
+StudentY   MAPs
+StudentY   Trees
+StudentY   Priority Queues
+StudentY   B-Trees
+StudentY   B-Trees
+StudentY   Priority Queues
+StudentY   MAPs
+StudentY   Stacks
+StudentY   Binary Trees
+StudentY   MAPs
+StudentY   Trees
+StudentY   Heaps
+StudentY   MAPs
+StudentY   Stacks
+StudentY   Priority Queues
+StudentY   Queues
+StudentY   Queues
+StudentY   B-Trees
+StudentY   In-place Sort
+StudentX   Divide-and-Conquer Sort
+StudentX   MAPs
+StudentX   Stacks
+StudentX   Trees
+StudentX   B-Trees
+StudentX   B-Trees
+StudentX   Stacks
+StudentX   MAPs
+StudentX   Stacks
+StudentX   Divide-and-Conquer Sort
+StudentX   Divide-and-Conquer Sort
+StudentX   MAPs
+StudentX   MAPs
+StudentX   B-Trees
+StudentX   Trees
+StudentX   Heaps
+StudentX   Priority Queues
+StudentX   MAPs
+StudentX   B-Trees
+StudentX   Stacks
+StudentX   Queues
+StudentW   Heaps
+StudentW   Priority Queues
+StudentW   Queues
+StudentW   Heaps
+StudentW   In-place Sort
+StudentW   Binary Trees
+StudentW   Binary Trees
+StudentW   Queues
+StudentW   B-Trees
+StudentW   Stacks
+StudentW   Binary Trees
+StudentW   Binary Trees
+StudentW   Heaps
+StudentW   Priority Queues
+StudentW   B-Trees
+StudentW   Priority Queues
+StudentW   Heaps
+StudentW   MAPs
+StudentW   In-place Sort
+StudentW   Trees
+StudentW   Stacks
+StudentW   MAPs
+StudentW   Queues
+StudentW   MAPs
+StudentW   B-Trees
+StudentW   Binary Trees
+StudentW   B-Trees
+StudentW   Divide-and-Conquer Sort
+StudentW   Trees
+StudentW   Divide-and-Conquer Sort
+StudentW   Binary Trees
+StudentW   Divide-and-Conquer Sort
+StudentV   Trees
+StudentV   Queues
+StudentV   MAPs
+StudentV   Queues
+StudentV   Stacks
+StudentV   Heaps
+StudentV   Priority Queues
+StudentV   B-Trees
+StudentV   Stacks
+StudentV   B-Trees
+StudentV   Trees
+StudentV   B-Trees
+StudentV   In-place Sort
+StudentV   Divide-and-Conquer Sort
+StudentV   MAPs
+StudentV   Priority Queues
+StudentV   Divide-and-Conquer Sort
+StudentV   B-Trees
+StudentV   Binary Trees
+StudentU   Priority Queues
+StudentU   Divide-and-Conquer Sort
+StudentU   B-Trees
+StudentU   Stacks
+StudentU   Priority Queues
+StudentU   In-place Sort
+StudentU   Stacks
+StudentU   Stacks
+StudentU   In-place Sort
+StudentU   Divide-and-Conquer Sort
+StudentU   Trees
+StudentU   Divide-and-Conquer Sort
+StudentU   Stacks
+StudentU   Heaps
+StudentU   MAPs
+StudentU   B-Trees
+StudentU   MAPs
+StudentU   Divide-and-Conquer Sort
+StudentU   Priority Queues
+StudentU   Trees
+StudentU   Priority Queues
+StudentU   In-place Sort
+StudentU   MAPs
+StudentU   Queues
+StudentU   Binary Trees
+StudentT   In-place Sort
+StudentT   B-Trees
+StudentT   Divide-and-Conquer Sort
+StudentT   Priority Queues
+StudentT   Heaps
+StudentT   Stacks
+StudentT   B-Trees
+StudentT   B-Trees
+StudentT   In-place Sort
+StudentT   Divide-and-Conquer Sort
+StudentT   MAPs
+StudentT   Priority Queues
+StudentT   Queues
+StudentT   In-place Sort
+StudentT   Heaps
+StudentT   MAPs
+StudentT   Heaps
+StudentT   Divide-and-Conquer Sort
+StudentT   MAPs
+StudentT   Queues
+StudentT   Queues
+StudentT   In-place Sort
+StudentT   Heaps
+StudentT   In-place Sort
+StudentT   Divide-and-Conquer Sort
+StudentT   Binary Trees
+StudentT   In-place Sort
+StudentT   Queues
+StudentT   MAPs
+StudentT   Priority Queues
+StudentT   Queues
+StudentT   Priority Queues
+StudentT   B-Trees
+StudentT   MAPs
+StudentT   Binary Trees
+StudentT   MAPs
+StudentS   Trees
+StudentS   Heaps
+StudentS   Trees
+StudentS   B-Trees
+StudentS   MAPs
+StudentS   In-place Sort
+StudentS   MAPs
+StudentS   Binary Trees
+StudentS   B-Trees
+StudentS   Priority Queues
+StudentS   Trees
+StudentS   In-place Sort
+StudentS   B-Trees
+StudentS   MAPs
+StudentS   Heaps
+StudentS   Trees
+StudentS   B-Trees
+StudentS   Divide-and-Conquer Sort
+StudentS   Priority Queues
+StudentS   Stacks
+StudentS   Trees
+StudentS   MAPs
+StudentS   Divide-and-Conquer Sort
+StudentS   In-place Sort
+StudentS   Divide-and-Conquer Sort
+StudentS   Queues
+StudentS   Priority Queues
+StudentR   Queues
+StudentR   Stacks
+StudentR   In-place Sort
+StudentR   Divide-and-Conquer Sort
+StudentR   Stacks
+StudentR   Trees
+StudentR   Queues
+StudentR   Priority Queues
+StudentR   Binary Trees
+StudentR   Stacks
+StudentR   Binary Trees
+StudentR   Binary Trees
+StudentR   Divide-and-Conquer Sort
+StudentR   Divide-and-Conquer Sort
+StudentR   Binary Trees
+StudentR   Divide-and-Conquer Sort
+StudentR   Queues
+StudentR   Trees
+StudentR   Divide-and-Conquer Sort
+StudentR   Queues
+StudentR   MAPs
+StudentR   MAPs
+StudentR   Divide-and-Conquer Sort
+StudentR   Priority Queues
+StudentR   Binary Trees
+StudentR   Heaps
+StudentR   Stacks
+StudentR   MAPs
+StudentR   B-Trees
+StudentR   Priority Queues
+StudentR   Stacks
+StudentR   Queues
+StudentR   Binary Trees
+StudentR   Stacks
+StudentR   MAPs
+StudentR   Trees
+StudentR   MAPs
+StudentR   B-Trees
+StudentQ   In-place Sort
+StudentQ   Trees
+StudentQ   Stacks
+StudentQ   Queues
+StudentQ   B-Trees
+StudentQ   Heaps
+StudentQ   Divide-and-Conquer Sort
+StudentQ   Queues
+StudentQ   Binary Trees
+StudentQ   B-Trees
+StudentQ   Stacks
+StudentQ   MAPs
+StudentQ   Stacks
+StudentQ   Queues
+StudentP   Divide-and-Conquer Sort
+StudentP   Priority Queues
+StudentP   MAPs
+StudentP   B-Trees
+StudentP   Divide-and-Conquer Sort
+StudentP   Stacks
+StudentP   Stacks
+StudentP   MAPs
+StudentP   Heaps
+StudentP   B-Trees
+StudentP   Priority Queues
+StudentP   Heaps
+StudentP   B-Trees
+StudentP   MAPs
+StudentP   B-Trees
+StudentP   Trees
+StudentP   In-place Sort
+StudentP   Priority Queues
+StudentP   In-place Sort
+StudentO   In-place Sort
+StudentO   Stacks
+StudentO   Priority Queues
+StudentO   Divide-and-Conquer Sort
+StudentO   Heaps
+StudentO   Queues
+StudentO   Trees
+StudentO   Binary Trees
+StudentO   Priority Queues
+StudentO   B-Trees
+StudentO   Queues
+StudentO   Divide-and-Conquer Sort
+StudentO   B-Trees
+StudentO   Heaps
+StudentO   Binary Trees
+StudentO   MAPs
+StudentO   Binary Trees
+StudentO   Stacks
+StudentO   Divide-and-Conquer Sort
+StudentO   Priority Queues
+StudentO   Priority Queues
+StudentO   Stacks
+StudentO   Priority Queues
+StudentO   Priority Queues
+StudentO   Trees
+StudentO   B-Trees
+StudentO   B-Trees
+StudentN   Queues
+StudentN   Divide-and-Conquer Sort
+StudentN   Priority Queues
+StudentN   Divide-and-Conquer Sort
+StudentN   MAPs
+StudentN   Heaps
+StudentN   In-place Sort
+StudentN   Priority Queues
+StudentN   Trees
+StudentN   Binary Trees
+StudentN   Binary Trees
+StudentN   In-place Sort
+StudentN   Binary Trees
+StudentN   Divide-and-Conquer Sort
+StudentN   MAPs
+StudentN   In-place Sort
+StudentN   In-place Sort
+StudentN   Trees
+StudentN   In-place Sort
+StudentN   MAPs
+StudentM   In-place Sort
+StudentM   MAPs
+StudentM   Divide-and-Conquer Sort
+StudentM   Stacks
+StudentM   Trees
+StudentM   MAPs
+StudentM   In-place Sort
+StudentM   Binary Trees
+StudentM   In-place Sort
+StudentM   MAPs
+StudentM   Priority Queues
+StudentM   B-Trees
+StudentM   Priority Queues
+StudentM   Divide-and-Conquer Sort
+StudentM   Divide-and-Conquer Sort
+StudentM   Stacks
+StudentM   In-place Sort
+StudentM   Stacks
+StudentM   Binary Trees
+StudentM   Queues
+StudentM   B-Trees
+StudentM   Binary Trees
+StudentM   Divide-and-Conquer Sort
+StudentM   B-Trees
+StudentM   B-Trees
+StudentM   Trees
+StudentM   Binary Trees
+StudentM   Trees
+StudentM   Stacks
+StudentM   Stacks
+StudentM   Trees
+StudentL   Heaps
+StudentL   Trees
+StudentL   B-Trees
+StudentL   Divide-and-Conquer Sort
+StudentL   Trees
+StudentL   Binary Trees
+StudentL   Stacks
+StudentL   Stacks
+StudentL   MAPs
+StudentL   Stacks
+StudentL   B-Trees
+StudentL   MAPs
+StudentL   Queues
+StudentL   Queues
+StudentL   Priority Queues
+StudentL   In-place Sort
+StudentL   Stacks
+StudentL   Heaps
+StudentL   B-Trees
+StudentL   MAPs
+StudentL   In-place Sort
+StudentL   In-place Sort
+StudentL   Trees
+StudentL   Trees
+StudentL   In-place Sort
+StudentL   Priority Queues
+StudentL   Trees
+StudentL   Divide-and-Conquer Sort
+StudentK   MAPs
+StudentK   Trees
+StudentK   Queues
+StudentK   Heaps
+StudentK   Divide-and-Conquer Sort
+StudentK   In-place Sort
+StudentK   Stacks
+StudentK   Priority Queues
+StudentK   Trees
+StudentK   Trees
+StudentK   Stacks
+StudentK   B-Trees
+StudentK   Binary Trees
+StudentK   Binary Trees
+StudentK   Divide-and-Conquer Sort
+StudentK   Divide-and-Conquer Sort
+StudentK   Heaps
+StudentK   Trees
+StudentK   Stacks
+StudentK   MAPs
+StudentK   Stacks
+StudentK   Divide-and-Conquer Sort
+StudentK   Trees
+StudentK   Priority Queues
+StudentK   Queues
+StudentK   In-place Sort
+StudentK   Divide-and-Conquer Sort
+StudentK   B-Trees
+StudentJ   Trees
+StudentJ   In-place Sort
+StudentJ   Trees
+StudentJ   Binary Trees
+StudentJ   Queues
+StudentJ   Priority Queues
+StudentJ   Stacks
+StudentJ   Divide-and-Conquer Sort
+StudentJ   In-place Sort
+StudentJ   Queues
+StudentJ   Trees
+StudentJ   MAPs
+StudentJ   In-place Sort
+StudentJ   Stacks
+StudentJ   Heaps
+StudentJ   Divide-and-Conquer Sort
+StudentJ   Divide-and-Conquer Sort
+StudentJ   MAPs
+StudentJ   In-place Sort
+StudentI   In-place Sort
+StudentI   Queues
+StudentI   Divide-and-Conquer Sort
+StudentI   Stacks
+StudentI   Trees
+StudentI   In-place Sort
+StudentI   B-Trees
+StudentI   Heaps
+StudentI   Trees
+StudentI   B-Trees
+StudentI   In-place Sort
+StudentI   B-Trees
+StudentI   Trees
+StudentI   Priority Queues
+StudentI   Divide-and-Conquer Sort
+StudentI   Trees
+StudentI   Binary Trees
+StudentI   In-place Sort
+StudentI   Heaps
+StudentI   Priority Queues
+StudentI   Divide-and-Conquer Sort
+StudentI   Binary Trees
+StudentI   Binary Trees
+StudentI   In-place Sort
+StudentH   In-place Sort
+StudentH   In-place Sort
+StudentH   B-Trees
+StudentH   Stacks
+StudentH   B-Trees
+StudentH   Divide-and-Conquer Sort
+StudentH   Trees
+StudentH   Stacks
+StudentH   B-Trees
+StudentH   B-Trees
+StudentH   B-Trees
+StudentH   Priority Queues
+StudentH   Heaps
+StudentH   Trees
+StudentH   Divide-and-Conquer Sort
+StudentH   Heaps
+StudentH   In-place Sort
+StudentH   In-place Sort
+StudentH   Divide-and-Conquer Sort
+StudentH   Binary Trees
+StudentH   Trees
+StudentH   In-place Sort
+StudentH   B-Trees
+StudentG   B-Trees
+StudentG   Priority Queues
+StudentG   Priority Queues
+StudentG   B-Trees
+StudentG   Binary Trees
+StudentG   Queues
+StudentG   Trees
+StudentG   Priority Queues
+StudentG   Divide-and-Conquer Sort
+StudentG   Divide-and-Conquer Sort
+StudentG   Binary Trees
+StudentG   B-Trees
+StudentG   Divide-and-Conquer Sort
+StudentG   Divide-and-Conquer Sort
+StudentG   Priority Queues
+StudentG   B-Trees
+StudentG   Priority Queues
+StudentG   Binary Trees
+StudentG   Queues
+StudentG   Queues
+StudentG   Stacks
+StudentG   Heaps
+StudentG   MAPs
+StudentF   Binary Trees
+StudentF   Trees
+StudentF   Stacks
+StudentF   B-Trees
+StudentF   Stacks
+StudentF   MAPs
+StudentF   MAPs
+StudentF   In-place Sort
+StudentF   Stacks
+StudentF   Priority Queues
+StudentF   Divide-and-Conquer Sort
+StudentF   Stacks
+StudentF   Trees
+StudentF   B-Trees
+StudentF   MAPs
+StudentF   MAPs
+StudentF   Trees
+StudentF   Queues
+StudentF   Trees
+StudentF   Priority Queues
+StudentF   Priority Queues
+StudentF   Priority Queues
+StudentF   Priority Queues
+StudentF   Trees
+StudentE   Stacks
+StudentE   In-place Sort
+StudentE   B-Trees
+StudentE   MAPs
+StudentE   Trees
+StudentE   Priority Queues
+StudentE   Trees
+StudentE   Trees
+StudentE   Divide-and-Conquer Sort
+StudentE   B-Trees
+StudentE   MAPs
+StudentE   In-place Sort
+StudentE   MAPs
+StudentE   Priority Queues
+StudentE   Stacks
+StudentE   B-Trees
+StudentE   Priority Queues
+StudentE   Heaps
+StudentE   Stacks
+StudentE   Trees
+StudentE   Queues
+StudentE   MAPs
+StudentE   Heaps
+StudentE   Divide-and-Conquer Sort
+StudentE   In-place Sort
+StudentE   Heaps
+StudentE   Binary Trees
+StudentE   Priority Queues
+StudentE   Stacks
+StudentE   Binary Trees
+StudentE   Queues
+StudentE   Divide-and-Conquer Sort
+StudentE   In-place Sort
+StudentD   Binary Trees
+StudentD   Stacks
+StudentD   Heaps
+StudentD   In-place Sort
+StudentD   B-Trees
+StudentD   Heaps
+StudentD   MAPs
+StudentD   MAPs
+StudentD   Trees
+StudentD   Trees
+StudentD   Divide-and-Conquer Sort
+StudentD   Queues
+StudentD   Trees
+StudentD   Divide-and-Conquer Sort
+StudentD   Trees
+StudentD   Binary Trees
+StudentD   Divide-and-Conquer Sort
+StudentD   Binary Trees
+StudentD   Divide-and-Conquer Sort
+StudentD   Binary Trees
+StudentD   Divide-and-Conquer Sort
+StudentD   Trees
+StudentC   MAPs
+StudentC   Heaps
+StudentC   MAPs
+StudentC   Stacks
+StudentC   Queues
+StudentC   In-place Sort
+StudentC   B-Trees
+StudentC   In-place Sort
+StudentC   Heaps
+StudentC   Heaps
+StudentC   MAPs
+StudentC   Queues
+StudentC   Divide-and-Conquer Sort
+StudentC   Stacks
+StudentC   Heaps
+StudentC   MAPs
+StudentC   B-Trees
+StudentC   Stacks
+StudentC   Divide-and-Conquer Sort
+StudentC   Stacks
+StudentC   Priority Queues
+StudentC   Priority Queues
+StudentC   Queues
+StudentC   MAPs
+StudentC   Heaps
+StudentC   Divide-and-Conquer Sort
+StudentC   B-Trees
+StudentB   MAPs
+StudentB   MAPs
+StudentB   In-place Sort
+StudentB   B-Trees
+StudentB   Divide-and-Conquer Sort
+StudentB   Priority Queues
+StudentB   MAPs
+StudentB   Trees
+StudentB   Queues
+StudentB   Queues
+StudentB   In-place Sort
+StudentB   Heaps
+StudentB   Stacks
+StudentB   In-place Sort
+StudentB   In-place Sort
+StudentB   Trees
+StudentB   Binary Trees
+StudentB   Binary Trees
+StudentB   Binary Trees
+StudentB   Priority Queues
+StudentB   B-Trees
+StudentB   MAPs
+StudentB   Queues
+StudentB   B-Trees
+StudentB   Heaps
+StudentB   MAPs
+StudentB   Divide-and-Conquer Sort
+StudentB   In-place Sort
+StudentB   B-Trees
+StudentA   Queues
+StudentA   Queues
+StudentA   Priority Queues
+StudentA   Priority Queues
+StudentA   Heaps
+StudentA   B-Trees
+StudentA   Priority Queues
+StudentA   Divide-and-Conquer Sort
+StudentA   Divide-and-Conquer Sort
+StudentA   Trees
+StudentA   Divide-and-Conquer Sort
+StudentA   Heaps
+StudentA   In-place Sort
+StudentA   In-place Sort
+StudentA   Heaps
+StudentA   In-place Sort
+StudentA   MAPs
+StudentA   MAPs
+StudentA   Heaps
+StudentA   Heaps
+StudentA   MAPs
+StudentA   Heaps
+StudentA   Priority Queues
+StudentA   MAPs
+StudentA   Trees
+StudentA   Priority Queues
+StudentA   Heaps
+StudentA   Binary Trees
