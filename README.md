@@ -1,2 +1,2 @@
 # Class-Project-Code
-A collection of my code from Data Structures, Algorithms, Object-Oriented Programming, etc.
+Hello! This is a collection of my code from more relevant CS classes (Data Structures, OOP, etc.) 
